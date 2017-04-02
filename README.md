@@ -16,7 +16,7 @@ Me:  I have the experience and ability to do everything I’ve agreed with you a
 
 ##**GETTING DOWN TO THE NITTY GRITTY**
 
-###Design
+### Design
 I create fully functional, responsive websites that can include popular web features such as blogs, media sharing and online stores. I often implement and customize Wordpress templates, so I won’t waste time mocking up every page as a static visual. On request, I can create a rough sketch or simply discuss the aesthetic and organizational direction that a page is taking. However, for the sake of time I will not consult you on every design decision I make. 
 
 You’ll have plenty of opportunities to review my work and provide feedback.  I’ll either share a Dropbox, Google Drive folder or Github repository or development site with you and I’ll have regular, possibly daily contact.
