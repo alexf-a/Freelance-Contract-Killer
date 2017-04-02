@@ -14,8 +14,9 @@ What do both parties agree to?
 You: You have the authority to enter into this contract on behalf of yourself, your company or your organization. You’ll give me the assets and information  I tell you I need to complete the project. You’ll do this when I ask and provide it in the formats I ask for, in a timely manner. You’ll review my work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 Me:  I have the experience and ability to do everything I’ve agreed with you and I’ll do it all in a professional and timely manner.  I’ll endeavour to meet every deadline that’s set and on top of that I'll maintain the confidentiality of everything you give me.
 
-GETTING DOWN TO THE NITTY GRITTY
-Design
+##**GETTING DOWN TO THE NITTY GRITTY**
+
+###Design
 I create fully functional, responsive websites that can include popular web features such as blogs, media sharing and online stores. I often implement and customize Wordpress templates, so I won’t waste time mocking up every page as a static visual. On request, I can create a rough sketch or simply discuss the aesthetic and organizational direction that a page is taking. However, for the sake of time I will not consult you on every design decision I make. 
 
 You’ll have plenty of opportunities to review my work and provide feedback.  I’ll either share a Dropbox, Google Drive folder or Github repository or development site with you and I’ll have regular, possibly daily contact.
