@@ -83,7 +83,7 @@ You’ll own the website that I design and develop for you plus the visual eleme
 
 I’ll own any intellectual property rights I’ve developed prior to, or developed separately from this project and not paid for by you.  I’ll own the unique combination of these elements that constitutes a complete design and I’ll license its use to you, exclusively and in perpetuity for this project only, unless I agree otherwise.
 
-### Displaying I work
+### Displaying our work
 I love to show off my work, so I reserve the right to display all aspects of my creative work, including sketches, work-in-progress and the completed project on my portfolio and in articles on websites, in magazine articles and in books.
 
 ### Payment schedule
